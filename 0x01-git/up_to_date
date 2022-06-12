@@ -1,1 +1,1 @@
-git add .
+Echo "something" >up_to_date
